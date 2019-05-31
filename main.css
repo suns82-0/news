@@ -136,3 +136,23 @@ a:hover {
     color: #999999;
     
 }
+
+.container-small {
+    max-width: 500px;
+}
+
+.btn-primary {
+    background: #a41f24;
+    border-color: #a41f24;
+}
+.btn-primary:hover {
+    background: #8e1317;
+}
+small {
+    font-size: 20px;
+    color: #999999;
+}
+
+.search-bar .form-control:focus {
+    border-color: rgba(0,0,0,0.05);
+}
